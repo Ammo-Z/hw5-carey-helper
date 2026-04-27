@@ -1,0 +1,27 @@
+{
+  "school": "JHU Carey Business School",
+  "academic_year": "2025-2026",
+  "terms": [
+    {"name": "Summer 2025", "start": "2025-05-27", "end": "2025-08-17"},
+    {"name": "Fall Term 1", "start": "2025-08-25", "end": "2025-10-20"},
+    {"name": "Fall Term 2", "start": "2025-10-22", "end": "2025-12-19"},
+    {"name": "Intersession 2026", "start": "2026-01-02", "end": "2026-01-16"},
+    {"name": "Spring Term 1", "start": "2026-01-20", "end": "2026-03-16"},
+    {"name": "Spring Term 2", "start": "2026-03-23", "end": "2026-05-17"}
+  ],
+  "holidays": [
+    {"date": "2025-09-01", "name": "Labor Day"},
+    {"date": "2025-11-27", "name": "Thanksgiving Day"},
+    {"date": "2025-11-28", "name": "Thanksgiving Holiday"},
+    {"date": "2026-01-19", "name": "MLK Jr. Day"},
+    {"date": "2026-05-21", "name": "Commencement Day"}
+  ],
+  "breaks": [
+    {"name": "Fall Recess", "start": "2025-11-26", "end": "2025-11-28"},
+    {"name": "Spring Break", "start": "2026-03-17", "end": "2026-03-20"}
+  ],
+  "milestones": {
+    "commencement": "2026-05-21",
+    "degree_conferral": "2026-05-21"
+  }
+}
