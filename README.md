@@ -7,7 +7,7 @@ This skill provides deterministic answers regarding the JHU Carey Business Schoo
 Carey's 8-week term structure is complex. LLMs often hallucinate dates for "Term 2" or "Reading Days". This script acts as a "source of truth" to prevent those errors.
 
 ## Video Demo
-[Link to be added here]
+https://youtu.be/MjmKpD2p11g
 
 ## Installation
 The skill is located in `.agents/skills/carey-academic-helper/`.
